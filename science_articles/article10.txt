@@ -1,0 +1,54 @@
+Here’s the latest good and bad news about COVID-19 drugs
+After vaccines, antivirals and a monoclonal antibody are the next line of defense Maybe you’ve heard that the pandemic is over in the United States. (It’s not.) Masks are no longer required in most places and large gatherings are becoming commonplace again. Most of the country is in the green, according to the U.S. Centers for Disease Control and Prevention’s tracking site, which monitors COVID-19 transmission and hospitalization rates. Many people have been relying on vaccines to control outbreaks, and there is renewed attention on getting newly available treatments to sick people.
+
+But coronavirus cases are on the rise again with more than a quarter of counties reporting high levels of transmission. And those are official numbers. No one really knows how many at-home tests come back positive and are never reported (SN: 4/22/22). Those cases are driving hospitalization rates up, with pockets of yellow and orange popping up on the CDC’s map, indicating that hospitals are entering the danger zone for being overwhelmed. Deaths have remained fairly low. That could change if another wave of infection sweeps the country. 
+
+“Maybe we think we’re on the edge of the woods, but we’re not out of it yet,” says Mark Denison, a coronavirus researcher at Vanderbilt University Medical Center in Nashville.
+
+Preventing hospitalizations and deaths is what vaccines were designed to do, but even the very good COVID-19 vaccines aren’t perfect. And with new immune-evasive variants of the coronavirus, even vaccinated people and those who previously had COVID-19  — particularly the elderly or people with weakened immune systems or other health concerns — can wind up in the hospital. 
+
+The next line of defense against that bad outcome are three antiviral drugs and a monoclonal antibody that may keep people newly diagnosed with COVID-19 from becoming severely ill and dying. 
+
+The test-to-treat initiative
+About 20,000 pharmacies, hospitals, urgent care centers and other places have the antiviral pills Paxlovid (a combo of two medications), made by Pfizer. The federal government plans to extend that number to 40,000 in the coming weeks, Ashish Jha, the White House COVID Response director, said April 26 during a news briefing. Many of those sites also have molnupiravir (Logevrio) antiviral pills, made by Merck (SN:12/2/21). The expansion is part of the federal government’s test-to-treat initiative to make testing and treatment widely available. 
+
+In much more limited supply are intravenous doses of monoclonal antibodies and the antiviral drug remdesivir — the only antiviral drug fully approved by the U.S. Food and Drug Administration for treating COVID-19. 
+
+One preventative treatment is a monoclonal antibody called Evusheld. It is for people with weakened immune systems who may not respond to vaccines or who can’t be vaccinated. In a clinical trial, it reduced the risk of developing symptomatic COVID-19 infections by 82 percent compared with a placebo, researchers reported April 20 in the New England Journal of Medicine. That treatment is plentiful but isn’t being used much.
+
+Remdesivir, or Veklury as its maker Gilead Sciences calls it, was approved by the FDA in 2020 for treating hospitalized patients (SN:4/29/20). A recent clinical trial showed that the drug reduced the chance of hospitalization by 87 percent in nonhospitalized people at high risk of severe disease, researchers reported in the January 27 New England Journal of Medicine. Such positive results prompted the FDA to expand its approval to outpatient use in people 12 and older. Then on April 25, the FDA authorized the drug to be used in children 12 and younger, making it the first antiviral COVID-19 treatment available for young kids. 
+
+The main downside to remdesivir is that it has to be administered intravenously. “There’s nothing convenient about that,” says Abraar Karan, an infectious diseases physician at Stanford University. Researchers are working on an oral form of remdesivir. Early experiments suggest it’s effective at protecting mice against severe illness. Tests still have to be done to see if it works for people, too.
+
+Two other drugs, Paxlovid and molnupiravir, come in pill form. They are theoretically more readily available, but many people don’t know about them or how to get them. And some social media posts suggest that it’s not as easy as it sounds for everyone to lay their hands on the drugs after a positive COVID-19 test, even when they do know about them. 
+
+“It’s not as simple as, ‘We have a pill, now everything is solved,’” Karan says.
+
+That’s partly because some doctors aren’t aware that they can or should prescribe the drugs for their high-risk patients who get infected with the coronavirus, says Jason Gallagher, a pharmacist and infectious diseases doctor at Temple University in Philadelphia. “There’s a lot of education that needs to occur on the medical side, also,” he says. 
+Ideally, people would talk to their doctors about whether they are candidates for the drugs before they get infected, Karan says. And people who don’t have a doctor need to know their options, because timing is important: The pills need to be started within three to five days of symptoms appearing.
+
+Access to the drugs is getting better, but it’s still patchy. In the interest of being prepared, I went to COVID.gov to learn about where I could get the drugs in case I catch the coronavirus. I’m relatively lucky. There are seven test-to-treat sites within five miles of my house just outside of Washington, D.C., though one is a military hospital not open to the general public. And I spoke to my doctor to ask if I should take Paxlovid if I get COVID-19. He said I should and that if I do a home test, I can call with the result, and he will call a prescription in to my pharmacy.
+
+My mom in rural Nebraska is in a different situation. She would have to drive more than 25 miles to the nearest test-to-treat site. Many other rural areas have pharmacies that can fill prescriptions, but people would have to go elsewhere to be tested and get a doctor to prescribe the medication. For instance, residents of Gypsum, Colo., would have to get tested somewhere, get a prescription from a doctor, drive about six miles to get the prescription filled, or travel nearly 100 miles to the Denver suburbs for a test-to-treat site.
+
+Drawbacks to these drugs
+There are other wrinkles besides access to using the drugs. “For all of the therapeutics, they have been studied primarily in unvaccinated people who are at risk of going on to develop severe disease,” says Gallagher. “So we basically end up projecting that data onto the population we have now, which is largely vaccinated.” It’s not clear that every person who has health conditions that put them at risk needs the drugs, especially if they have gotten a vaccine booster shot. The drugs might decrease symptoms, but there’s no real evidence to show they’re effective in making people feel better faster, he says. 
+
+The drugs are good at keeping people out of the hospital, though. Paxlovid reduced the relative risk of hospitalization and death by about 89 percent, researchers reported in the April 14 New England Journal of Medicine. Its side effects included a distorted sense of taste, and a small number of people developed diarrhea. 
+
+A bigger drawback is one of the drugs in the Paxlovid combo. Paxlovid’s main drug, nirmatrelvir, works by inhibiting an enzyme that the virus needs to replicate. It is taken with a drug called ritonavir, which keeps nirmatrelvir from being broken down by enzymes in the body. Ritonavir can react with other medications, like cholesterol-lowering statins, making levels of those medications in the body dangerously high. There are ways to work around that, though, Gallagher says. For instance, cholesterol-lowering medications could be halted for a short time. “I can’t think of a single person who can’t stop taking those for a week or two” while being treated for COVID-19, he says.
+
+Another wrinkle is relapse. One preprint and other anecdotal accounts have reported that some people have relapses of the virus a few days after stopping Paxlovid. No one really knows how common that is or why it happens. The U.S. National Institutes of Health are collaborating with the CDC and the FDA to better understand the phenomenon, according to a statement the National Institute of Allergy and Infectious Diseases sent to me. But the agencies have no formal studies underway.
+
+Experts I talked to had some ideas about what might be happening. It could be that the immune system “chills out” while people are taking the drug, giving the virus the opportunity to rebound once the drug is stopped, Gallagher speculates. Or the virus might hide in certain places in the body that the drug has trouble reaching, Denison says. Both of those situations might be solved by giving people the drug for longer, they say. 
+
+But the FDA rejected that suggestion in a post citing John Farley, director of the agency’s Office of Infectious Diseases. Similar relapses happened to people taking placebo pills in Pfizer’s clinical trial of the drug, so the viral rebound may not be related to taking the drug, Farley stressed. And there has been no indication that people get sicker and are hospitalized after a relapse. There’s also no data to say whether people would benefit from taking Paxlovid longer or getting another round of the pills if they have a relapse, he said.
+
+Resistance to the drug is another reason infections might relapse. “I think drug resistance is the least likely explanation,” says Denison. For resistance to develop, the virus has to replicate, which it can’t do when the drug is around. Still, researchers should watch for mutations in viruses taken from relapsed patients that might indicate resistance, he says.
+
+None of the drugs are likely to prevent waves of infection. For instance, Paxlovid slightly reduced the chance of contracting COVID-19 in people who were exposed to infected household members, but the result wasn’t statistically meaningful, Pfizer reported April 29 in a news release. That means it’s not great as a preventative and won’t affect case counts.
+
+“What [the drugs] could flatten is a surge in hospitalizations and deaths,” Gallagher says. But, he notes, people at high risk of severe disease should not rely on the drugs alone to save them. “I don’t think that any of these therapeutics is as good as a booster.”
+
+
+

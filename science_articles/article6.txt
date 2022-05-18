@@ -1,0 +1,11 @@
+Mixing electrolytes in batteries may be hazardous
+
+The addition of ionic liquids to conventional electrolytes in lithium-ion batteries can lead to serious safety concerns.
+
+Lithium-ion batteries have been used to power mobile devices for three decades because they are lightweight and can store a lot of energy. But they suffer from safety concerns as they can occasionally overheat and even explode.
+
+These problems stem from the carbonate electrolytes used in lithium-ion batteries. Ionic liquids are promising as alternative, more-stable electrolytes. Some studies have suggested that hybrid electrolytes that are a mixture of carbonates and ionic liquids may be safe.
+
+Now, seven researchers from Vidyasirimedhi Institute of Science and Technology (VISTEC) in Rayong, Thailand, have tested the safety and performance of lithium-ion batteries with such mixed electrolytes.
+
+They found that adding ionic liquids to carbonate-based electrolytes can produce free carbonate-based molecules that can be easily oxidized, leading to flammable gas being generated.

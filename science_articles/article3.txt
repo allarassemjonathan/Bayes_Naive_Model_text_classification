@@ -1,0 +1,24 @@
+High-energy neutrinos may come from black holes ripping apart stars
+Evidence builds that tidal disruption events send the subatomic particles zipping through space
+When a star gets too close to a black hole, sparks fly. And, potentially, so do subatomic particles called neutrinos.
+
+A dramatic light show results when a supermassive black hole rips apart a wayward star. Now, for the second time, a high-energy neutrino has been spotted that may have come from one of these “tidal disruption events,” researchers report in a study accepted in Physical Review Letters.
+
+These lightweight particles, which have no electric charge, careen across the cosmos and can be detected upon their arrival at Earth. The origins of such zippy neutrinos are a big mystery in physics. To create them, conditions must be just right to drastically accelerate charged particles, which would then produce neutrinos. Scientists have begun lining up likely candidates for cosmic particle accelerators. In 2020, researchers reported the first neutrino linked to a tidal disruption event (SN: 5/26/20). Other neutrinos have been tied to active galactic nuclei, bright regions at the centers of some galaxies.
+Discovered in 2019, the tidal disruption event reported in the new study stood out. “It was extraordinarily bright; it’s really one of the brightest transients ever seen,” says astroparticle physicist Marek Kowalski of Deutsches Elektronen-Synchrotron, or DESY, in Zeuthen, Germany.
+
+Transients are short-lived flares in the sky, such as tidal disruption events and exploding stars called supernovas. Further observations of the brilliant outburst revealed that it shone in infrared, X-rays and other wavelengths of light.
+
+Roughly a year after the flare’s discovery, the Antarctic neutrino observatory IceCube spotted a high-energy neutrino. By tracing the particle’s path backward, researchers determined that the neutrino came from the flare’s vicinity.
+
+The matchup between the two events could be a coincidence. But when combined with the previous neutrino that was tied to a tidal disruption event, the case gets stronger. The probability of finding two such associations by chance is only about 0.034 percent, the researchers say.
+
+It’s still not clear how tidal disruption events would produce high-energy neutrinos. In one proposed scenario, a jet of particles flung away from the black hole could accelerate protons, which could interact with surrounding radiation to produce the speedy neutrinos.
+
+‘We need more data … in order to say that these are real neutrino sources or not,” says astrophysicist Kohta Murase of Penn State University, a coauthor of the new study. If the link between the neutrinos and tidal disruption events is real, he’s optimistic that researchers won’t have to wait too long. “If this is the case, we will see more.”
+
+But scientists don’t all agree that the flare was a tidal disruption event. Instead, it could have been an especially bright type of supernova, astrophysicist Irene Tamborra and colleagues suggest in the April 20 Astrophysical Journal.
+
+In such a supernova, it’s clear how energetic neutrinos could be produced, says Tamborra, of the Niels Bohr Institute at the University of Copenhagen. Protons accelerated by the supernova’s shock wave could collide with protons in the medium that surrounds the star, producing other particles that could decay to make neutrinos.
+
+It’s only recently that observations of high-energy neutrinos and transients have improved enough to enable scientists to find potential links between the two. “It’s exciting,” Tamborra says. But as the debate over the newly detected neutrino’s origin shows, “at the same time, it’s uncovering many things that we don’t know.”

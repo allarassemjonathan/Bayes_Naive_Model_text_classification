@@ -1,0 +1,31 @@
+Even the sea has light pollution. These new maps show its extent
+Lights from coastal and offshore development may impact marine organisms far below the surface
+
+The first global atlas of ocean light pollution shows that large swaths of the sea are squinting in the glare of humans’ artificial lights at night.
+
+From urbanized coastlines along the Persian Gulf to offshore oil complexes in the North Sea, humans’ afterglow is powerful enough to penetrate deep into many coastal waters, potentially changing the behaviors of creatures that live there, researchers report December 13 in Elementa: Science of the Anthropocene. Regional and seasonal differences — such as phytoplankton blooms or sediment from rivers — also affect the depth to which light penetrates.
+
+Artificial lights are known to affect land dwellers, such as by swelling or shrinking certain insect populations, or by making it harder for sparrows to fight off West Nile virus (SN: 3/30/21; SN: 8/31/21; SN: 1/19/18). But the bright lights of coastal cities, oil rigs and other offshore structures can also create a powerful glow in the sky over the sea.
+
+All lit up
+The waters of the Persian Gulf (upper right) are heavily light-polluted, due to extensive offshore development and — to a lesser extent — its populous coastal cities. Light pollution near Jeddah, on the western coast of Saudi Arabia, also extends deep into the waters of the Red Sea (at left). These effects combine to send biologically significant levels of light down as far as 50 meters in some parts of the water.
+
+Ocean light pollution in the Red Sea and Persian Gulf
+To assess where this glow is strongest, marine biogeochemist Tim Smyth of Plymouth Marine Laboratory in England and colleagues combined a world atlas of artificial night sky brightness created in 2016 with ocean and atmosphere data (SN: 6/10/16). Those data include shipboard measurements of artificial light, satellite data collected monthly from 1998 to 2017 to estimate the prevalence of light-scattering phytoplankton and sediment, and computer simulations of how different wavelengths of light move through the water.
+
+Not all species are equally sensitive to light, so to assess impact, the team focused on copepods, ubiquitous shrimplike creatures that are a key part of many ocean food webs. Like other tiny zooplankton, copepods use the sun or the winter moon as a cue to plunge en masse to the dark deep, seeking safety from surface predators.
+
+Humans’ nighttime light has the most impact in the top meter of the water, the team found. Here, artificial light is intense enough to cause a biological response across nearly 2 million square kilometers of ocean, an area roughly that of Mexico. Twenty meters down, the total affected area shrinks by more than half to 840,000 square kilometers.
+
+
+
+
+
+
+
+
+
+
+
+
+

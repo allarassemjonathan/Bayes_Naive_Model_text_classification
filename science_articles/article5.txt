@@ -1,0 +1,25 @@
+Europa may have much more shallow liquid water than scientists thought
+Liquid in the icy shell of the Jovian moon may be behind the “double ridges” on its surface
+Europa’s frozen surface is covered with distinctive pairs of ridges that straddle troughs of ice. These double ridges are the most common features on the Jovian moon. But scientists don’t yet have a clear idea of how the oddities are created.
+
+Now, an analysis of images of a similar set of ridges on Greenland’s ice sheet suggests that relatively shallow water within Europa’s thick icy shell may be behind their formation, scientists report April 19 in Nature Communications. If so, that could mean that Europa has much more shallow liquid water than scientists have thought.
+
+Europa’s double ridge systems, which can stretch for hundreds of kilometers, include some of the oldest features on the moon, says Riley Culberg, a geophysicist at Stanford University. Some researchers have proposed that the flexing of the moon’s icy shell due to tides in an underlying liquid water ocean plays a role in the ridges’ formation (SN: 8/6/20). Yet others have suggested that water erupted from deep within the icy moon — a process known as cryovolcanism — to create the ridges. Without a closer look, though, it’s been hard to nail down a more solid explanation.
+
+But Culberg and his colleagues seem to have caught a break. Data gathered by NASA’s ICESat-2 satellite in March 2016 showed an 800-meter-long double ridge system in northwestern Greenland. So the team looked back at other images to see when the ridge system first appeared and to assess how it grew. The researchers found that the ridges appeared in images taken as early as July 2013 and are still there today.
+
+When the ridges — which lie on either side of a trough, like those on Europa — reached full size, they averaged only 2.1 meters high. That’s a lot smaller than the ridges on Europa, which can rise 300 meters or more from the moon’s surface. But surface gravity is much lower on Europa, so ridges can grow much larger there, Culberg says. When he and his colleagues considered the difference between Earth’s gravity and Europa’s in their calculations, they found that the proportions of the two ridge systems are consistent.
+
+Scientists will never get a perfect analog of Europa on Earth, but the ridges in Greenland “look just like the Europan ridges,” says Laurent Montési, a geophysicist at the University of Maryland in College Park who was not involved in the study.
+
+Data from airplane-mounted radar gathered in March 2016 show that a water-filled layer of snow about 10 to 15 meters below the surface underlies the Greenland ridges, Culberg and his team say. That water comes from surface meltwater that sinks into and is then collected in the buried snow, which in turn sits atop an impermeable layer of ice.
+
+Repeated freeze-thaw cycles of water in that layer of snow would squeeze water toward the surface, the researchers propose. In the first phase of refreezing, a solid plug of ice forms. Then, as more water freezes, it expands and is forced toward the surface on either side of that plug, pushing material upward and producing the double ridges at the surface.
+
+On Europa, the process works the same way, the researchers suggest. But because there is no known meltwater or precipitation at the moon’s surface, near-surface water there probably would have to come from the ocean thought to be trapped beneath the moon’s icy shell (5/14/18). Once that water rose toward the surface through cracks, it could pool in thick layers of ice shattered by tidal flexing or the impacts of meteorites.
+
+“There’s a general consensus that these ridges grow from cracks in the ice,” says William McKinnon, a planetary scientist at Washington University in Saint Louis who was not involved in the study. “But how do they do it is the question.”
+
+The answer to that question may not be long in coming, McKinnon says. NASA’s Europa Clipper mission is scheduled to launch in late 2024. If all goes well, the orbiter will arrive at Jupiter in April 2030. “If there’s anything like what has happened in Greenland going on at Europa, we’ll be able to see it,” he says.
+
+Researchers will also be interested to see if the mission can ascertain what sort of materials might have been brought to Europa’s surface from the ocean deep below, because the moon is considered to be one of the best places in the solar system to look for extraterrestrial life 
