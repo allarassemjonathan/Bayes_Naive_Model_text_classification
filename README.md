@@ -6,7 +6,7 @@ The approach is to look at each category as a cause behind a certain document an
 We assume the uniformity of the priors which means that all the elements of t are equally likely to produce the set of observables. We assume that the words occur independently from each other. Hence the presence of one word in a document does not at all impact the presence of another (which is not true obviously). For the causes, we assume that no two hypotheses can be true at the same time which is also not true since we can have articles that are about politics and sport at the same time for example. 
 
 From Bayes formula we can derive the expression to maximaze:
-<img src="[https://latex.codecogs.com/png.image?1+sin^2(x)](https://latex.codecogs.com/svg.image?P(t|w)&space;=&space;\alpha&space;\prod_{j}^{n}P(w_{j}|t)&space;&space;=>&space;log(P(t|w))&space;=&space;\alpha&space;\sum_{j}^{n}&space;log(P(w_{j}|t))&space;)", style="background-color:white;"/>
+<img src="[https://latex.codecogs.com/png.image?1+sin^2(x)](https://latex.codecogs.com/svg.image?P(t|w)&space;=&space;\alpha&space;\prod_{j}^{n}P(w_{j}|t)&space;&space;=>&space;log(P(t|w))&space;=&space;\alpha&space;\sum_{j}^{n}&space;log(P(w_{j}|t))&space;)", style=""/>
 
 
 
