@@ -1,5 +1,6 @@
 import  os
 import math
+import matplotlib.pyplot as plt
 
 STOP_WORDS = set(
     """
@@ -88,6 +89,10 @@ def learn(category):
     for file in files:
         update_distribution(category + '_articles\\' + file, category)
 
+def hist(dictionary):
+    plt.bar(list(dictionary.keys()), dictionary.values(), color='g')
+    plt.show()
+    
 def predict(name):
     text = open(name, 'r', encoding="ISO-8859-1").read().lower()
     punc = '''±¬¤¸£×¥¿*¶¼¦¹¯§¾´ª½¢¡®…³=²º­¨0123456789!→°()-[]{};:'"«»\,+<>./?@#$%^&*_~©'''
@@ -125,7 +130,9 @@ def predict(name):
         temp = 0
 
     print(scores)
-        
+
+dic = load_distribution("science")
+hist(dic)
 
 #update_distribution("sport_articles\\article1.txt", category)
 #print(load_distribution(category))
@@ -133,4 +140,4 @@ def predict(name):
 #for cat in categories:
 #    learn(cat)
     
-predict("test.txt")
+#predict("test.txt")
