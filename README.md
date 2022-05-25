@@ -11,6 +11,7 @@ The task will be to maximize the value of y using the following equation:
 
 <img src="https://github.com/allarassemjonathan/Bayes_Naive_classifier/blob/main/Equation(1).PNG">
 
+where y is the topic that maximizes the posterior probability, Ck is the set contatining the topics and x is the set of observables.
 
 We learn the posteriors probabilities distribution by counting the number of words occurring in each document after removing the stop words. We end up with a probability distribution for each of our topic, a sort of table that map the probabilities of word occurring with the condition of it being used in that topic. 
 After iterating through more than 20 articles we have the following distribution of words depending on the topic:
