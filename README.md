@@ -5,7 +5,7 @@ Following is the statement of the problem: “Given a document, can we classify 
 
 The approach to solve the problem is simple. We have a finite set of topic that are the hidden variables acting on the words that are the observables. We can draw a simple Bayesian network to represent the interactions between the topics and the words. 
 
-<img src="https://github.com/allarassemjonathan/Bayes_Naive_classifier/blob/main/PictureBayesian.png" align="center">
+                    <img src="https://github.com/allarassemjonathan/Bayes_Naive_classifier/blob/main/PictureBayesian.png">
 
 Where t is a random variable representing the topics, wn a random variable representing a word in the sequence of words. 
 The task will be to maximize the value of y using the following equation:
