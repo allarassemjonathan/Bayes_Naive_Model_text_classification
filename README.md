@@ -7,7 +7,7 @@ The approach to solve the problem is simple. We have a finite set of topic that 
 
 <img src="https://github.com/allarassemjonathan/Bayes_Naive_classifier/blob/main/PictureBayesian.png">
 
-Where t is a random variable representing the topics, wn a random variable representing a word in the sequence of words. 
+Where Ck is a random variable representing the topics, xi a random variable representing a word in the sequence of words. 
 The task will be to maximize the value of y using the following equation:
 
 <img src="https://github.com/allarassemjonathan/Bayes_Naive_classifier/blob/main/Equation(1).PNG">
